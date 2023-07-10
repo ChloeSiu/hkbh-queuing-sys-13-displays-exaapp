@@ -1,0 +1,24 @@
+.wrapperContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Landscape */
+.contentWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.leftColumn {
+  display: flex;
+  flex-direction: column;
+  width: 640px;
+  height: 980px;
+}
+
+.rightColumn {
+  display: flex;
+  flex-direction: column;
+  width: 1279px;
+  height: 980px;
+}

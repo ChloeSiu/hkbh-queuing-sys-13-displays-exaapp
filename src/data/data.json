@@ -1,0 +1,18 @@
+{
+  "displayProfileContents": {
+    "docNameCn": "梁國雄醫生",
+    "docNameEn": "Dr. LEUNG Kwok Hung, Vincent",
+    "nextTicketNo": ["CTM842"],
+    "nowServingTicketNo": ["LSM152b"],
+    "roomNum": "1"
+  },
+
+  "displayProfileLayout": {
+    "Width": "1920px",
+    "Height": "1080px",
+    "Room": true,
+    "Doctor": true,
+    "Next": true,
+    "NowServing": true
+  }
+}
